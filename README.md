@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center">Ambitious IoT student and aspiring backend developer.</h3>
+<h3 align="center">Ambitious IoT student and aspiring backend developer</h3>
 
 - 🌱 I’m currently learning **FastAPI, JavaScript**
 
