@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">Ambitious IoT student and aspiring fullstack developer</h3>
 
-- 🌱 I’m currently learning **FastAPI, Pytest, Docker, Flutter**
+- 🌱 I’m currently learning **FastAPI, Pytest, Docker and Flutter**
 
-- 🔭 I’m currently working on **IoT development**
+- 🔭 I’m currently working on **IoT and mobile apps development**
 
 - 📫 How to reach me **jakub.grzesiak@protonmail.com**
 
