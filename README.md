@@ -12,7 +12,7 @@
 
 <h3 align="left">Platforms and tools:</h3>
 
-![tools](https://skillicons.dev/icons?i=linux,raspberrypi,arduino,aws,firebase,mysql,vscode,androidstudio,git,github,postman)
+![tools](https://skillicons.dev/icons?i=linux,raspberrypi,arduino,aws,firebase,mysql,sqlite,vscode,androidstudio,git,github,postman)
 
 <h3 align="left">Languages:</h3>
 
