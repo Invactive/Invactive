@@ -25,7 +25,7 @@
 <hr>
 <p align="center">
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Invactive&label=Profile%20Views&icon=1&pretty=true" />
+  <img src="https://komarev.com/ghpvc/?username=Invactive&style=for-the-badge" />
 </a>
 </p>
 
