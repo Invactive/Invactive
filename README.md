@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">Ambitious IoT student and aspiring software developer</h3>
 
-- 🌱 I’m currently learning **FastAPI, Pytest, Docker and Flutter**
-- 🔭 I’m currently working on **IoT and mobile apps development**
+- 🌱 I’m currently learning **FastAPI, Pytest, Django**
+- 🔭 I’m currently working on **Python apps development**
 - 📫 How to reach me **jakub.grzesiak@protonmail.com**
 
 <h3 align="left">Connect with me on Linkedin:</h3>
@@ -12,7 +12,7 @@
 
 <h3 align="left">Platforms and tools:</h3>
 
-![tools](https://skillicons.dev/icons?i=linux,raspberrypi,arduino,aws,firebase,mysql,sqlite,vscode,androidstudio,git,github,postman)
+![tools](https://skillicons.dev/icons?i=linux,raspberrypi,arduino,aws,firebase,postgres,mysql,sqlite,vscode,androidstudio,git,github,postman)
 
 <h3 align="left">Languages:</h3>
 
